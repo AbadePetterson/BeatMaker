@@ -1,2 +1,2 @@
 # BeatMaker
-Criador de Beat simples usando Javascript puro.
+Apenas um criador de beat simples usando javascript 
